@@ -1,0 +1,6 @@
+@Santander_DeveloperCodingTest_HostAddress = http://localhost:5062
+
+GET {{Santander_DeveloperCodingTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
